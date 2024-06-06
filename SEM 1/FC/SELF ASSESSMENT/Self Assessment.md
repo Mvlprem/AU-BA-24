@@ -4,11 +4,11 @@
 * According to the National Planning Commission of India, “An under-developed economy is one which is characterised by the co-existence of unutilised or under utilised man power and unexploited natural resources”.
 ---
 **Developing Countries are divided into 3 categories:**
-- ***Low Income countries*** with per capita income of $ 936 and below.
-- ***Middle income countries*** with per capita income ranging between $ 937 and $ 11,455.
+- **Low Income countries** with per capita income of $ 936 and below.
+- **Middle income countries** with per capita income ranging between $ 937 and $ 11,455.
 	- **lower - middle income** with per capita income in the range of $ 906 to $ 3,705
 	- **upper middle Income** countries with per capita income $ 3,706 to $ 11,455.
-- ***High income countries*** which are mostly members of the organisation for Economic Co-operation and Development (OECD) and have percapita income of $ 11,456 or more.
+- **High income countries** which are mostly members of the organisation for Economic Co-operation and Development (OECD) and have percapita income of $ 11,456 or more.
 ---
 **Four categories of an under-developed economy** 
 - Economic
